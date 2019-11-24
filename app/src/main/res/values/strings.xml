@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="logo">logo</string>
+    <string name="Height">身高：</string>
+    <string name="Weight">體重：</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="start">開始計算</string>
+    <string name="reset">清除計算</string>
+    <string name="value">你的BMI為：</string>
+    <string name="grading">你的分級為：</string>
+    <string name="grading1">過輕</string>
+    <string name="grading2">正常</string>
+    <string name="grading3">過重</string>
+</resources>
