@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BMI</string>
+    <string name="app_name">BMI 計算器</string>
     <string name="logo">logo</string>
     <string name="Height">身高：</string>
     <string name="Weight">體重：</string>
